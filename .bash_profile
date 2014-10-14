@@ -28,7 +28,7 @@ PROMPT_COMMAND=print_before_prompt
 #start http server and open localhost in browser
 local_server(){
 		open http://localhost:8000
-		server
+		serve
 }
 
 #change directory to Applications
