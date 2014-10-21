@@ -7,16 +7,6 @@ alias serveo='local_server'
 alias ip='ipconfig getifaddr en1'
 alias v='vim'
 
-export ANDROID_HOME=/adt-bundle-mac-x86_64-20130917/sdk
-export PATH=/Developer/AndroidSDK/platform-tools:/adt-bundle-mac-x86_64-20130917/sdk/tools:$PATH
-
-
-export PATH="$PATH:/usr/local/lib/"
-
-export PATH="$PATH:/Applications/Muse"
-
-export DYLD_LIBRARY_PATH="$DYLD_LIBRARY_PATH:/Applications/Muse"
-
 PS1='-> '
 
 print_before_prompt(){
