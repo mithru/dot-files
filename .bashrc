@@ -7,6 +7,7 @@ alias serve='python -m SimpleHTTPServer'
 alias serveo='local_server'
 alias ip='hostname -I'
 alias v='vim'
+alias l='ls'
 alias x='exit'
 
 PS1='$ '
